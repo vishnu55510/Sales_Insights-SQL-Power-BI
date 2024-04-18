@@ -47,8 +47,14 @@ Revenue Trend is showing that in June 2020 revenue has been decreased drasticall
 11. Highest quantities sold in the Market such as Delhi NCR, Mumbai, Nagpur, Kochi, Ahmedabad, and so on.
 12. Majority of the sales were takes place in the month of January followed by November and March.
 
+
+Dashboard of Sales Analysis of sales for quick view:
+![Sales Insights - Visualization (1)_page-0001](https://github.com/vishnu55510/Sales_Insights-SQL-Power-BI/assets/162179720/b5ef7470-f099-4dbc-a9c4-a1e29f7e95b5)
+
+
 Dashboard of Performance Tracking of sales for quick view:
 ![image](https://user-images.githubusercontent.com/106775145/209099717-295fd41e-fffc-4bdb-83ab-a50bbef24b86.png)
+
 
 
 
