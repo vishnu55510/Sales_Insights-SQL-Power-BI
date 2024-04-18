@@ -53,7 +53,11 @@ Dashboard of Sales Analysis of sales for quick view:
 
 
 Dashboard of Performance Tracking of sales for quick view:
-![image](https://user-images.githubusercontent.com/106775145/209099717-295fd41e-fffc-4bdb-83ab-a50bbef24b86.png)
+![Sales Insights - Visualization (1)_page-0003](https://github.com/vishnu55510/Sales_Insights-SQL-Power-BI/assets/162179720/7dfb3acf-486c-484f-afea-382ad315e440)
+
+
+Dashboard of Profit Analysis of sales for quick view:
+![Sales Insights - Visualization (1)_page-0002](https://github.com/vishnu55510/Sales_Insights-SQL-Power-BI/assets/162179720/222ac486-91e0-448a-ad77-8250359b286c)
 
 
 
